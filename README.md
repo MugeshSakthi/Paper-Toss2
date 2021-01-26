@@ -1,1 +1,2 @@
-# Paper-Toss2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
